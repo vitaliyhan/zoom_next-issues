@@ -7,7 +7,7 @@ assignees: vitaliyhan
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
+**Описание новой функции**
 
 
-**Describe the solution you'd like**
+**Примеры**

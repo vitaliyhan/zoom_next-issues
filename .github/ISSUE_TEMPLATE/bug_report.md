@@ -7,12 +7,12 @@ assignees: vitaliyhan
 
 ---
 
-**Describe the bug**
+**Описание бага**
 
 
-**To Reproduce**
+**Как воспроизвести баг**
 
-**Expected behavior**
+**Ожидаемое поведение**
 
 
-**Screenshots**
+**Скрины**
